@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gameSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16628525f7d" ></w:Config>
+	<e:Image source="bg_png" left="0%" right="0%" top="0%" bottom="0%"/>
+	<e:Group id="group" width="640" x="0" top="0%" bottom="0%" height="960" touchEnabled="false">
+		<e:Group width="142" height="174" x="48" scaleX="1" scaleY="1" verticalCenter="-12%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" ellipseHeight="0" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="259" scaleX="1" scaleY="1" verticalCenter="-12%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="466" scaleX="1" scaleY="1" verticalCenter="-12%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="47.00000000000001" scaleX="1" scaleY="1" verticalCenter="22%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="258" scaleX="1" scaleY="1" verticalCenter="22%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="469" scaleX="1" scaleY="1" verticalCenter="22%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="46.00000000000001" scaleX="1" scaleY="1" bottom="15%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="256" scaleX="1" scaleY="1" bottom="15%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="1" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="174" x="469" scaleX="1" scaleY="1" bottom="15%" touchEnabled="false" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" scaleX="1" scaleY="1" ellipseWidth="90" touchEnabled="false"/>
+			<e:Image source="bucket_png" x="8" y="-154" scaleX="1" scaleY="1" visible="false"/>
+			<e:Image source="water-full_png" x="6" y="-100" visible="false"/>
+		</e:Group>
+	</e:Group>
+	<e:Label id="timeDownTXT" text="30" x="82.33" anchorOffsetX="0" width="134" anchorOffsetY="0" height="67.33" size="50" verticalAlign="middle" textAlign="center" fontFamily="Tahoma" top="4%"/>
+	<e:Label id="tongNumTXT" text="0" x="411" anchorOffsetX="0" width="90" anchorOffsetY="0" height="91.34" size="79" verticalAlign="middle" textAlign="center" fontFamily="SimHei" top="7%"/>
+</e:Skin>

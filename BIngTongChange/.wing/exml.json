@@ -1,0 +1,15 @@
+{
+  "166284d1b75": {
+    "path": "..\\resource\\mySkins\\start.ts",
+    "class": "start",
+    "parentPath": ""
+  },
+  "16628525f7d": {
+    "path": "..\\resource\\mySkins\\game.ts",
+    "class": "game",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  }
+}

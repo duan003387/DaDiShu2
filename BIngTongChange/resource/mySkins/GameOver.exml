@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOverSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16651947da3" ></w:Config>
+	<e:Image source="board2_png" width="640" x="0" top="0%" bottom="0%"/>
+	<e:Button id="btnPlayAgain" label="" x="115.33" anchorOffsetX="0" width="413.64" anchorOffsetY="0" height="86.36" alpha="0" verticalCenter="5%"/>
+	<e:Button id="btnFenXiang" label="" x="115.33" anchorOffsetX="0" width="413.64" anchorOffsetY="0" height="86.36" alpha="0" verticalCenter="39%"/>
+	<e:Label text="得分：" x="158" anchorOffsetX="0" width="210" anchorOffsetY="0" height="105" size="60" textAlign="center" verticalAlign="middle" verticalCenter="-31%"/>
+	<e:Label id="scoreText" text="" x="286.33" anchorOffsetX="0" width="210" anchorOffsetY="0" height="135.3" size="80" textAlign="center" verticalAlign="middle" textColor="0xff0000" verticalCenter="-32%"/>
+</e:Skin>
